@@ -1,0 +1,13 @@
+pyrogram==2.0.106
+pyromod==3.1.6
+TgCrypto
+aiohttp
+aiofiles
+pycryptodome
+requests
+yt-dlp
+Pillow
+python-dotenv
+PyPDF2
+reportlab
+cloudscraper

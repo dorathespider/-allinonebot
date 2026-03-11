@@ -1,0 +1,19 @@
+# Sensitive files - KABHI GitHub pe mat jaaye
+config.env
+*.session
+*.session-journal
+cookies.txt
+*.cookies
+
+# Downloads folder
+downloads/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
